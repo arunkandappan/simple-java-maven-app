@@ -2,6 +2,7 @@ package com.mycompany.app;
 
 /**
  * Hello world!
+ * updated to trigger pull
  */
 public class App {
 
