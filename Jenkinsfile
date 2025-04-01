@@ -16,6 +16,8 @@ pipeline {
 		}
   	    }
 	}
+	stage'Deliver'){
+	}
     }
 
 }
